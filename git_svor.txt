@@ -1,1 +1,8 @@
-"Git spurningar og svör"
+"Git spurningar og svör"gitt
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	Cd = Change to home directory
+	cd ~ = Returns you to your login directory
+	ls = Directory Listing
+	pwd = Show current driectory
+	mkdir = Create a directory
