@@ -20,3 +20,7 @@
 	c) git diff commit1 commit2
 	Svör:
 	A sýnir öll merge conflict, B sýnir allar breytingar á milli HEAD og index, C sýnir  	breytingar milli commit 1 og commit 2.
+
+4. 	Hvað er útgáfustýring (e.version control)?
+	Svör:
+	Version Control record-ar allar breytingar Og með því getum við opnað þá skrá síðar 	eins og hún var þá.
