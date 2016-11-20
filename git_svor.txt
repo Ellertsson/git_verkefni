@@ -29,3 +29,7 @@
 	Fljótt í notkun
 	Snöggt að búa til nýtt repository
     	Github er létt að nota og læra á
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Svör:
+	Sem oftast eftir breytingar á verkefni.
