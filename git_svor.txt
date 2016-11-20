@@ -24,3 +24,8 @@
 4. 	Hvað er útgáfustýring (e.version control)?
 	Svör:
 	Version Control record-ar allar breytingar Og með því getum við opnað þá skrá síðar 	eins og hún var þá.
+
+5. Hverjir eru helstu kostir við að nota GIT? 
+	Fljótt í notkun
+	Snöggt að búa til nýtt repository
+    	Github er létt að nota og læra á
