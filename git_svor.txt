@@ -6,3 +6,10 @@
 	ls = Directory Listing
 	pwd = Show current driectory
 	mkdir = Create a directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = Create a working copy of a local repository
+	git log = Sýnir allar skráningar (commits)
+	git status = List files you have changed and those you still need to add or commit.
+	git diff = View all the merge conflicts.
+	git checkout = If you mess up, you can replace the changes in your working tree with the last content in head.
