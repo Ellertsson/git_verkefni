@@ -13,3 +13,10 @@
 	git status = List files you have changed and those you still need to add or commit.
 	git diff = View all the merge conflicts.
 	git checkout = If you mess up, you can replace the changes in your working tree with the last content in head.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+	Svör:
+	A sýnir öll merge conflict, B sýnir allar breytingar á milli HEAD og index, C sýnir  	breytingar milli commit 1 og commit 2.
