@@ -43,3 +43,5 @@
 8.	Hvenær er sniðugt að nota greinar (branches)?
 	Svar:
 	Ef eitthvert bug myndi koma fyrir master þá væri hægt að búa til aðra branch 	"hotfix1" sem væri notuð til að laga allar villur í kóðanum
+
+-Benedikt B. Ellertsson
